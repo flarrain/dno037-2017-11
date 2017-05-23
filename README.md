@@ -22,7 +22,7 @@ Nosotros hemos explorado la primera opción, que es la más popular, en su versi
 
 ### JS (JavaScript) 
 
-Este lenguaje es utilizado para programar scripts que se ejecutan del lado del cliente. [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) no modifica directamente el código fuente del documento HTML, sino que el [DOM](https://es.wikipedia.org/wiki/Document_Object_Model); podemos seguirle la pista a esta ejecución mediante la [Consola de JavaScript](https://transferwise.com/es/help/article/2247654/tecnico-navegador/como-abrir-la-consola-de-tu-navegador) que incluyen los navegadores.
+Este lenguaje es utilizado para programar scripts que se ejecutan del lado del cliente. Cuando [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) se ejecuta, no modifica directamente el código fuente de la página web sino que el [DOM](https://es.wikipedia.org/wiki/Document_Object_Model) de la misma; podemos seguirle la pista a esta ejecución mediante la [Consola de JavaScript](https://transferwise.com/es/help/article/2247654/tecnico-navegador/como-abrir-la-consola-de-tu-navegador) que incluyen los navegadores.
 
 Nuestra exploración de JavaScript la hicimos mediante una biblioteca particular, la de [p5.js](https://p5js.org/). Lo hicimos así porque esta biblioteca, que es una reinterpretación de Processing para la web actual, fue creada para hacer la programación accesible a artistas, diseñadores, educadores y principiantes.
 
@@ -30,6 +30,6 @@ Otra biblioteca que hemos utilizado, sin ponerle mucha atención, es la de [jQue
 
 ### PHP (Hypertext Preprocessor)
 
-Este lenguaje es utilizado para programar scripts que se ejecutan del lado del servidor, afectando directamente el código de fuente HTML justo antes de que éste sea enviado al cliente.  
+Este lenguaje es utilizado para programar scripts que se ejecutan del lado del servidor, afectando directamente al código de la página web justo antes de que éste sea enviado al cliente.  
 
 

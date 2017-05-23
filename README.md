@@ -4,7 +4,7 @@
 
 Miércoles 24 de mayo
 
-**Ya conocemos 2 lenguajes que NO son lenguajes de programación: HTML y CSS.** Las clases que dedicamos a estos lenguajes:
+**Ya conocemos 2 lenguajes que NO son lenguajes de programación: HTML y CSS.** Dedicamos a estos lenguajes las clases:
 
 - https://github.com/profesorfaco/dno037-2017-01
 - https://github.com/profesorfaco/dno037-2017-02
@@ -27,7 +27,7 @@ Nosotros hemos explorado la primera y más popular de las opciones, en su versi�
 
 -----
 
-**También conocemos 2 lenguajes de programación: JavaScript y PHP.** Las clases que dedicamos a estos lenguajes:
+**También conocemos 2 lenguajes de programación: JavaScript y PHP.** Dedicamos a estos lenguajes las clases:
 
 - https://github.com/profesorfaco/dno037-2017-07
 - https://github.com/profesorfaco/dno037-2017-08

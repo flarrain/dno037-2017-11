@@ -4,21 +4,33 @@
 
 Miércoles 24 de mayo
 
-**Ya conocemos 2 lenguajes que NO son lenguajes de programación: HTML y CSS.**
+**Ya conocemos 2 lenguajes que NO son lenguajes de programación: HTML y CSS.** Las clases que dedicamos a estos lenguajes fueron:
+
+- https://github.com/profesorfaco/dno037-2017-01
+- https://github.com/profesorfaco/dno037-2017-02
+- https://github.com/profesorfaco/dno037-2017-03
+- https://github.com/profesorfaco/dno037-2017-04
+- https://github.com/profesorfaco/dno037-2017-05
+- https://github.com/profesorfaco/dno037-2017-06
 
 ### HTML (HyperText Markup Language). 
 
-Este lenguaje es utilizado para describir y definir el contenido de una página web. Su *building block* es el elemento HTML, que se presenta habitualmente con la siguiente forma: `<etiqueta>contenido</etiqueta>`
+[HTML](https://developer.mozilla.org/es/docs/Web/HTML) es un lenguaje utilizado para describir y definir el contenido de una página web. Su *building block* es el elemento HTML, que se presenta habitualmente con la siguiente forma: `<etiqueta>contenido</etiqueta>`
 
 ### CSS (Cascading Style Sheets)
 
-Este lenguaje es utilizado para describir la presentación de una página web. Su *building block* es la regla CSS, que se presenta habitualmente con la siguiente forma: `selector{propiedad:valor;}`
+[CSS](https://developer.mozilla.org/es/docs/Web/CSS) es un lenguaje utilizado para describir la presentación de una página web. Su *building block* es la regla CSS, que se presenta habitualmente con la siguiente forma: `selector{propiedad:valor;}`
 
 Para trabajar en prototipos que avancen rápidamente hasta productos finales, podemos aprovechar algunos de los *framework for developing responsive, mobile first projects on the web*. Entre las múltiples opciones, podemos mencionar a [Bootstrap](http://getbootstrap.com/), [Semantic UI](https://semantic-ui.com/), [Foundation](http://foundation.zurb.com/), [Materialize](http://materializecss.com/) y otras. 
 
-Nosotros hemos explorado la primera y más popular de las opciones, en su versión 3: [Bootstrap](http://getbootstrap.com/).
+Nosotros hemos explorado la primera y más popular de las opciones, en su versión 3: [Bootstrap](http://getbootstrap.com/). 
 
-**También conocemos 2 lenguajes de programación: JavaScript y PHP.**
+**También conocemos 2 lenguajes de programación: JavaScript y PHP.** Las clases que dedicamos a estos lenguajes fueron:
+
+- https://github.com/profesorfaco/dno037-2017-07
+- https://github.com/profesorfaco/dno037-2017-08
+- https://github.com/profesorfaco/dno037-2017-09
+- https://github.com/profesorfaco/dno037-2017-10
 
 ### JS (JavaScript) 
 

@@ -6,7 +6,7 @@ Miércoles 24 de mayo
 
 #### Resumen y recta final
 
-**Ya conocemos 2 lenguajes que NO son lenguajes de programación. **
+**Ya conocemos 2 lenguajes que NO son lenguajes de programación: HTML y CSS.**
 
 ### HTML (HyperText Markup Language). 
 
@@ -20,16 +20,18 @@ Para trabajar en prototipos que avancen hasta productos finales, podemos aprovec
 
 Nosotros hemos explorado la primera opción, que es la más popular, en su versión 3.
 
-**También conocemos 2 lenguajes de programación.**
+**También conocemos 2 lenguajes de programación: JavaScript y PHP.**
 
 ### JS (JavaScript) 
 
-Este lenguaje es utilizado para programar scripts que se ejecutan del lado del cliente. JavaScript no modifica directamente el código fuente HTML, sino que el DOM. Podemos seguirle la pista a esta ejecución mediante la Consola de JavaScript que incluyen los navegadores. 
+Este lenguaje es utilizado para programar scripts que se ejecutan del lado del cliente. [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) no modifica directamente el código fuente del documento HTML, sino que el [DOM](https://es.wikipedia.org/wiki/Document_Object_Model); podemos seguirle la pista a esta ejecución mediante la [Consola de JavaScript](https://transferwise.com/es/help/article/2247654/tecnico-navegador/como-abrir-la-consola-de-tu-navegador) que incluyen los navegadores.
 
-Habría que indicar que JavaScript también se está utilizando para programación que se ejecuta en entornos sin navegador, ej: node.js, Apache CouchDB.
+Nuestra exploración de JavaScript la hicimos mediante una biblioteca particular, la de [p5.js](https://p5js.org/). Lo hicimos así porque esta biblioteca, que es una reinterpretación de Processing para la web actual, fue creada para hacer la programación accesible a artistas, diseñadores, educadores y principiantes.
+
+Otra biblioteca que hemos utilizado, sin ponerle mucha atención, es la de [jQuery](http://jquery.com/): La hemos incluído y aprovechado en cada sitio desarrollado con [Bootstrap](http://getbootstrap.com/).
 
 ### PHP (Hypertext Preprocessor)
 
-Este lenguaje es utilizado para programar scripts que se ejecutan del lado del servidor, afectando directamente el código de fuente HTML justo antes de que este sea enviado al cliente.  
+Este lenguaje es utilizado para programar scripts que se ejecutan del lado del servidor, afectando directamente el código de fuente HTML justo antes de que éste sea enviado al cliente.  
 
 

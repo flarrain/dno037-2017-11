@@ -8,15 +8,15 @@ Miércoles 24 de mayo
 
 ### HTML (HyperText Markup Language). 
 
-Este lenguaje es utilizado para describir y definir el contenido de una página web. Su “building block” es el elemento HTML, que se presenta habitualmente con la siguiente forma: `<etiqueta>contenido</etiqueta>`
+Este lenguaje es utilizado para describir y definir el contenido de una página web. Su *building block* es el elemento HTML, que se presenta habitualmente con la siguiente forma: `<etiqueta>contenido</etiqueta>`
 
 ### CSS (Cascading Style Sheets)
 
-Este lenguaje es utilizado para describir la presentación de una página web. Su “building block” es la regla CSS, que se presenta habitualmente con la siguiente forma: `selector{propiedad:valor;}`
+Este lenguaje es utilizado para describir la presentación de una página web. Su *building block* es la regla CSS, que se presenta habitualmente con la siguiente forma: `selector{propiedad:valor;}`
 
-Para trabajar en prototipos que avancen hasta productos finales, podemos aprovechar algunos de los “framework for developing responsive, mobile first projects on the web” que se encuentran disponibles en web. Entre las múltiples opciones, podemos mencionar a Bootstrap, Foundation, Pure y otras. 
+Para trabajar en prototipos que avancen rápidamente hasta productos finales, podemos aprovechar algunos de los *framework for developing responsive, mobile first projects on the web*. Entre las múltiples opciones, podemos mencionar a [Bootstrap](http://getbootstrap.com/), [Semantic UI](https://semantic-ui.com/), [Foundation](http://foundation.zurb.com/), [Materialize](http://materializecss.com/) y otras. 
 
-Nosotros hemos explorado la primera opción, que es la más popular, en su versión 3.
+Nosotros hemos explorado la primera y más popular de las opciones, en su versión 3: [Bootstrap](http://getbootstrap.com/).
 
 **También conocemos 2 lenguajes de programación: JavaScript y PHP.**
 

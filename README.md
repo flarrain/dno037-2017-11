@@ -4,8 +4,6 @@
 
 Miércoles 24 de mayo
 
-#### Resumen y recta final
-
 **Ya conocemos 2 lenguajes que NO son lenguajes de programación: HTML y CSS.**
 
 ### HTML (HyperText Markup Language). 

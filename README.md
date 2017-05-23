@@ -30,6 +30,6 @@ Otra biblioteca que hemos utilizado, sin ponerle mucha atención, es la de [jQue
 
 ### PHP (Hypertext Preprocessor)
 
-Este lenguaje es utilizado para programar scripts que se ejecutan del lado del servidor, afectando directamente al código de la página web justo antes de que éste sea enviado al cliente.  
+Este lenguaje es utilizado para programar scripts que se ejecutan del lado del servidor, afectando directamente al código fuente de la página web justo antes de que éste sea enviado al cliente.  
 
 

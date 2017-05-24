@@ -70,7 +70,7 @@ Hoy cada estudiante, trabajando individualmente, debe preparar un sitio con:
 
 - página de portada que muestre antecedentes y referentes para su proyecto, como artículos alimentados por un `*.CSV`;
 - página que despliegue solamente una categoría de artículos, sea antecedentes o referentes;
-- página que despliegue del detalle de los artículos en portada;
+- página que despliegue el detalle de cada artículo en portada;
 - página tipo *about*, de descripción del proyecto final; y 
 - página tipo *contacto*, con un formulario donde se pueda escribir un mensaje que recibirán en sus correos personales.
 

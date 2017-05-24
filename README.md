@@ -31,7 +31,7 @@ Nosotros exploramos la primera y más popular de las opciones, en su versión 3:
 
 -----
 
-**Por esta introducción práctica también conocemos 2 lenguajes de programación muy utilizados en web: JavaScript y PHP.** Dedicamos a estos lenguajes las clases más complejas:
+**Por esta introducción práctica también conocemos 2 lenguajes de programación muy utilizados en el desarrollo de Aplicaciones Web: JavaScript y PHP.** Dedicamos a estos lenguajes las clases más complejas:
 
 - https://github.com/profesorfaco/dno037-2017-07
 - https://github.com/profesorfaco/dno037-2017-08

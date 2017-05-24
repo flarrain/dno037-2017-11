@@ -56,7 +56,7 @@ Otra biblioteca que hemos utilizado, sin ponerle mucha atención, es la de [jQue
 
 Este lenguaje es utilizado para programar scripts que se ejecutan del lado del servidor, afectando directamente al código fuente de la página web justo antes de que éste sea enviado al cliente.
 
-Nuestra introducción a [PHP](http://php.net/manual/es/intro-whatis.php) la hicimos atendiendo, primero, a [las diferencias de la sintaxis de este lenguaje y JavaScript](http://profesor.faco.cl/diferencias.php). Diferencias que no son tan radicales como la diferencia de "lugares" de ejecución.
+Nuestra introducción a [PHP](http://php.net/manual/es/getting-started.php) la hicimos atendiendo, primero, a [las diferencias de la sintaxis de este lenguaje y JavaScript](http://profesor.faco.cl/diferencias.php). Diferencias que no son tan radicales como la diferencia de "lugares" de ejecución.
 
 -----
 

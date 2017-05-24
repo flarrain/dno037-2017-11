@@ -21,9 +21,11 @@ Miércoles 24 de mayo
 
 [CSS](https://developer.mozilla.org/es/docs/Web/CSS) es un lenguaje utilizado para describir la presentación de una página web. Su *building block* es la regla CSS, que se presenta habitualmente con la siguiente forma: `selector{propiedad:valor;}`
 
-Para trabajar en prototipos que avancen rápidamente hasta productos finales, podemos aprovechar algunos de los *framework for developing responsive, mobile first projects on the web*. Entre las múltiples opciones, podemos mencionar a [Bootstrap](http://getbootstrap.com/), [Semantic UI](https://semantic-ui.com/), [Foundation](http://foundation.zurb.com/), [Materialize](http://materializecss.com/) y otras. 
+-----
 
-Nosotros hemos explorado la primera y más popular de las opciones, en su versión 3: [Bootstrap](http://getbootstrap.com/). 
+Para trabajar en prototipos de páginas web que avancen rápidamente hasta productos finales, podemos aprovechar algunos de los *framework for developing responsive, mobile first projects on the web*. Entre las múltiples opciones, podemos mencionar a [Bootstrap](http://getbootstrap.com/), [Semantic UI](https://semantic-ui.com/), [Foundation](http://foundation.zurb.com/), [Materialize](http://materializecss.com/) y otras. 
+
+Nosotros exploramos la primera y más popular de las opciones, en su versión 3: [Bootstrap](http://getbootstrap.com/). 
 
 -----
 

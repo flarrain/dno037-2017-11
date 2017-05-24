@@ -4,7 +4,9 @@
 
 Miércoles 24 de mayo
 
-**Ya conocemos 2 lenguajes que NO son lenguajes de programación: HTML y CSS.** Dedicamos a estos lenguajes las clases:
+Este curso ofrece una introducción práctica al desarrollo de Aplicaciones Web, con énfasis en la codificación del diseño de interfaz gráfica e interacción, según las prácticas estandarizadas en interoperabilidad, accesibilidad y usabilidad.
+
+**Por esta introducción práctica, ya conocemos 2 lenguajes que NO son lenguajes de programación: HTML y CSS.** Dedicamos a estos lenguajes las clases:
 
 - https://github.com/profesorfaco/dno037-2017-01
 - https://github.com/profesorfaco/dno037-2017-02
@@ -29,7 +31,7 @@ Nosotros exploramos la primera y más popular de las opciones, en su versión 3:
 
 -----
 
-**También conocemos 2 lenguajes de programación: JavaScript y PHP.** Hicimos una introducción a estos lenguajes en las clases:
+**Por esta introducción también conocemos 2 lenguajes de programación: JavaScript y PHP.** Dedicamos a estos lenguajes las clases:
 
 - https://github.com/profesorfaco/dno037-2017-07
 - https://github.com/profesorfaco/dno037-2017-08
@@ -42,10 +44,12 @@ Este lenguaje es utilizado para programar scripts que se ejecutan del lado del c
 
 Nuestra exploración de JavaScript la hicimos mediante una biblioteca particular, la de [p5.js](https://p5js.org/). Lo hicimos así porque esta biblioteca, que es una reinterpretación de Processing para la web actual, fue creada para hacer la programación accesible a artistas, diseñadores, educadores y principiantes.
 
-Otra biblioteca que hemos utilizado, sin ponerle mucha atención, es la de [jQuery](http://jquery.com/): La hemos incluído y aprovechado en cada sitio desarrollado con [Bootstrap](http://getbootstrap.com/).
+Otra biblioteca que hemos utilizado, sin ponerle mucha atención, es la de [jQuery](http://jquery.com/): La hemos incluído y aprovechado en cada sitio desarrollado con [Bootstrap 3](http://getbootstrap.com/).
 
 ### PHP (Hypertext Preprocessor)
 
-Este lenguaje es utilizado para programar scripts que se ejecutan del lado del servidor, afectando directamente al código fuente de la página web justo antes de que éste sea enviado al cliente.  
+Este lenguaje es utilizado para programar scripts que se ejecutan del lado del servidor, afectando directamente al código fuente de la página web justo antes de que éste sea enviado al cliente.
 
+-----
 
+La última clase que dedicaremos a estos lenguajes es la de hoy. En la clases que siguen pasaremos al quinto y último módulo del curso, donde cada estudiante desarrolla una aplicación web para comprobar o demostrar el aprovechamiento en los estudios.

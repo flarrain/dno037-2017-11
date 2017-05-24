@@ -54,4 +54,4 @@ Nuestra introducción a PHP la hicimos atendiendo, primero, a [las diferencias d
 
 -----
 
-La última clase que dedicaremos a estos lenguajes es la de hoy. En la clases que siguen pasaremos al quinto y último módulo del curso, donde cada estudiante desarrolla una aplicación web para comprobar o demostrar el aprovechamiento en los estudios.
+La última clase que dedicaremos a estos lenguajes es la de hoy. En la clases que siguen pasaremos al quinto y último módulo del curso, donde cada estudiante desarrolla una aplicación web para comprobar o demostrar el aprovechamiento en los estudios. Una diferencia que no es tan radical como la diferencia de "lugares" de ejecución.

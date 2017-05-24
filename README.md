@@ -33,8 +33,7 @@ Para trabajar en prototipos de páginas web que avancen rápidamente hasta produ
 
 Nosotros exploramos la primera y más popular de las opciones, en su versión 3: [Bootstrap](http://getbootstrap.com/). 
 
-Pueden poner a prueba lo aprendido respondiendo a las 25 preguntas en [W3Schools Bootstrap Quiz
-](https://www.w3schools.com/quiztest/quiztest.asp?qtest=Bootstrap)
+Pueden poner a prueba lo aprendido respondiendo a las 25 preguntas en [W3Schools Bootstrap Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=Bootstrap)
 
 -----
 
@@ -57,7 +56,7 @@ Otra biblioteca que hemos utilizado, sin ponerle mucha atención, es la de [jQue
 
 Este lenguaje es utilizado para programar scripts que se ejecutan del lado del servidor, afectando directamente al código fuente de la página web justo antes de que éste sea enviado al cliente.
 
-Nuestra introducción a PHP la hicimos atendiendo, primero, a [las diferencias de la sintaxis de este lenguaje y JavaScript](http://profesor.faco.cl/diferencias.php). Diferencias que no son tan radicales como la diferencia de "lugares" de ejecución.
+Nuestra introducción a [PHP](http://php.net/manual/es/intro-whatis.php) la hicimos atendiendo, primero, a [las diferencias de la sintaxis de este lenguaje y JavaScript](http://profesor.faco.cl/diferencias.php). Diferencias que no son tan radicales como la diferencia de "lugares" de ejecución.
 
 -----
 

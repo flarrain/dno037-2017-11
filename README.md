@@ -19,15 +19,22 @@ Este curso ofrece una introducción práctica al desarrollo de Aplicaciones Web,
 
 [HTML](https://developer.mozilla.org/es/docs/Web/HTML) es un lenguaje utilizado para describir y definir el contenido de una página web. Su *building block* es el elemento HTML, que se presenta habitualmente con la siguiente forma: `<etiqueta>contenido</etiqueta>`
 
+Pueden poner a prueba lo aprendido respondiendo a las 40 preguntas en [W3Schools HTML Quiz](https://www.w3schools.com/quiztest/quiztest.asp?Qtest=HTML)
+
 ### CSS (Cascading Style Sheets)
 
 [CSS](https://developer.mozilla.org/es/docs/Web/CSS) es un lenguaje utilizado para describir la presentación de una página web. Su *building block* es la regla CSS, que se presenta habitualmente con la siguiente forma: `selector{propiedad:valor;}`
+
+Pueden poner a prueba lo aprendido respondiendo a las 25 preguntas en [W3Schools CSS Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=CSS)
 
 -----
 
 Para trabajar en prototipos de páginas web que avancen rápidamente hasta productos finales, podemos aprovechar algunos de los *framework for developing responsive, mobile first projects on the web*. Entre las múltiples opciones, podemos mencionar a [Bootstrap](http://getbootstrap.com/), [Semantic UI](https://semantic-ui.com/), [Foundation](http://foundation.zurb.com/), [Materialize](http://materializecss.com/) y otras. 
 
 Nosotros exploramos la primera y más popular de las opciones, en su versión 3: [Bootstrap](http://getbootstrap.com/). 
+
+Pueden poner a prueba lo aprendido respondiendo a las 25 preguntas en [W3Schools Bootstrap Quiz
+](https://www.w3schools.com/quiztest/quiztest.asp?qtest=Bootstrap)
 
 -----
 

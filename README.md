@@ -31,7 +31,7 @@ Nosotros exploramos la primera y más popular de las opciones, en su versión 3:
 
 -----
 
-**Por esta introducción práctica también conocemos 2 lenguajes de programación: JavaScript y PHP.** Dedicamos a estos lenguajes las clases:
+**Por esta introducción práctica también conocemos 2 lenguajes de programación: JavaScript y PHP.** Dedicamos a estos lenguajes las clases más complejas:
 
 - https://github.com/profesorfaco/dno037-2017-07
 - https://github.com/profesorfaco/dno037-2017-08
@@ -42,13 +42,15 @@ Nosotros exploramos la primera y más popular de las opciones, en su versión 3:
 
 Este lenguaje es utilizado para programar scripts que se ejecutan del lado del cliente. Cuando [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) se ejecuta, no modifica directamente el código fuente de la página web sino que el [DOM](https://es.wikipedia.org/wiki/Document_Object_Model) de la misma; podemos seguirle la pista a esta ejecución mediante la [Consola de JavaScript](https://transferwise.com/es/help/article/2247654/tecnico-navegador/como-abrir-la-consola-de-tu-navegador) que incluyen los navegadores.
 
-Nuestra exploración de JavaScript la hicimos mediante una biblioteca particular, la de [p5.js](https://p5js.org/). Lo hicimos así porque esta biblioteca, que es una reinterpretación de Processing para la web actual, fue creada para hacer la programación accesible a artistas, diseñadores, educadores y principiantes.
+Nuestra introducción a JavaScript la hicimos mediante una biblioteca particular, la de [p5.js](https://p5js.org/). Lo hicimos así porque esta biblioteca, que es una reinterpretación de Processing para la web actual, fue creada para hacer la programación accesible a artistas, diseñadores, educadores y principiantes.
 
 Otra biblioteca que hemos utilizado, sin ponerle mucha atención, es la de [jQuery](http://jquery.com/): La hemos incluído y aprovechado en cada sitio desarrollado con [Bootstrap 3](http://getbootstrap.com/).
 
 ### PHP (Hypertext Preprocessor)
 
 Este lenguaje es utilizado para programar scripts que se ejecutan del lado del servidor, afectando directamente al código fuente de la página web justo antes de que éste sea enviado al cliente.
+
+Nuetra introducción a PHP la hicimos atendiendo, primero, a [las diferencias de la sintaxis de este lenguaje y el recién señalado](http://profesor.faco.cl/diferencias.php).
 
 -----
 

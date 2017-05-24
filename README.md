@@ -60,4 +60,17 @@ Nuestra introducción a [PHP](http://php.net/manual/es/getting-started.php) la h
 
 -----
 
-La última clase que dedicaremos a estos lenguajes es la de hoy. En la clases que siguen pasaremos al quinto y último módulo del curso, donde cada estudiante desarrolla una aplicación web para comprobar o demostrar el aprovechamiento en los estudios. 
+La última clase que dedicaremos a estos lenguajes es la de hoy, miércoles 24 de mayo. En la clases que siguen pasaremos al quinto y último módulo del curso, donde cada estudiante desarrollará un prototipo de Aplicación Web para comprobar o demostrar el aprovechamiento en los estudios. 
+
+-----
+
+### Ejercicio
+
+Hoy cada estudiante, trabajando individualmente, debe preparar un sitio con:
+
+1) página de portada que muestre antecedentes y referentes para su proyecto, como artículos alimentados por un `*.CSV`
+2) página que despliegue del detalle de los artículos en portada;
+3) página tipo *about*, de descripción del proyecto final; y 
+4) página tipo *contacto*, con un formulario donde se pueda escribir un mensaje que recibirán en sus correos personales.
+
+Cada página debe incluir los mismos `header.php` y `footer.php`, que les permitan evitar repeticiones que sólo demorarían el proceso.

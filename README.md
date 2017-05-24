@@ -27,7 +27,7 @@ Nosotros hemos explorado la primera y más popular de las opciones, en su versi�
 
 -----
 
-**También conocemos 2 lenguajes de programación: JavaScript y PHP.** Dedicamos a estos lenguajes las clases:
+**También conocemos 2 lenguajes de programación: JavaScript y PHP.** Hicimos una introducción a estos lenguajes en las clases:
 
 - https://github.com/profesorfaco/dno037-2017-07
 - https://github.com/profesorfaco/dno037-2017-08

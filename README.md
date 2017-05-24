@@ -50,8 +50,8 @@ Otra biblioteca que hemos utilizado, sin ponerle mucha atención, es la de [jQue
 
 Este lenguaje es utilizado para programar scripts que se ejecutan del lado del servidor, afectando directamente al código fuente de la página web justo antes de que éste sea enviado al cliente.
 
-Nuestra introducción a PHP la hicimos atendiendo, primero, a [las diferencias de la sintaxis de este lenguaje y JavaScript](http://profesor.faco.cl/diferencias.php).
+Nuestra introducción a PHP la hicimos atendiendo, primero, a [las diferencias de la sintaxis de este lenguaje y JavaScript](http://profesor.faco.cl/diferencias.php). Diferencias que no son tan radicales como la diferencia de "lugares" de ejecución.
 
 -----
 
-La última clase que dedicaremos a estos lenguajes es la de hoy. En la clases que siguen pasaremos al quinto y último módulo del curso, donde cada estudiante desarrolla una aplicación web para comprobar o demostrar el aprovechamiento en los estudios. Una diferencia que no es tan radical como la diferencia de "lugares" de ejecución.
+La última clase que dedicaremos a estos lenguajes es la de hoy. En la clases que siguen pasaremos al quinto y último módulo del curso, donde cada estudiante desarrolla una aplicación web para comprobar o demostrar el aprovechamiento en los estudios. 

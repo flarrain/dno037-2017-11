@@ -1,13 +1,15 @@
-<?php include('header.php')?>
+<?php include('header.php');?>
 <?php
-$blog = array_map('str_getcsv', file('data/blog.csv'));
-array_walk($blog, function(&$a) use ($blog) {$a = array_combine($blog[0], $a);});
-array_shift($blog);
+$inspiracion = array_map('str_getcsv', file('data/datos.csv'));
+array_walk($inspiracion, function(&$a) use ($inspiracion) {$a = array_combine($inspiracion[0], $a);});
+array_shift($inspiracion);
+$all = count($inspiracion);
 $id = $_GET['url'];
 ?>
-
 <div class="col-sm-12">
-<h2>Título del Post</h2>
-</div>
-
-<?php include('footer.php')?>
+<h3><?php print($inspiracion[$id]["title"])?></h3>
+<h5>Categoría: <a href="archive.php?url=<?php print($inspiracion[$id]["category"])?>"><?php print($inspiracion[$id]["category"])?></a></h5>
+<img src="<?php print($inspiracion[$id]["picture"])?>" class="img-responsive">
+<p><?php print($inspiracion[$id]["content"])?>.</p>
+</div><!--/col-sm-4-->
+<?php include('footer.php');?>

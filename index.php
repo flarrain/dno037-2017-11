@@ -1,15 +1,28 @@
 <?php include('header.php');?>
 
-<div class="col-sm-4">
-<article>
-<figure>
-  <img src="images/ejemplo-01.jpg">
-  <figcaption>Categoría: <a href="archive.php?url=referente">referente</a> o <a href="archive.php?url=antecedente">antecedente</a></figcaption>
-<figure>
-<h3><a href="post.php?url=id">Nombre del referente o antecedente</a></h3>
-<p>Texto descriptivo breve del referente. Tipo "excerpt". <a href="post.php?url=id">Ver más detalles</a></p>
-</article>
-</div><!--/col-sm-4-->
+<?php
+$inspiracion = array_map('str_getcsv', file('data/datos.csv'));
+array_walk($inspiracion, function(&$a) use ($inspiracion) {$a = array_combine($inspiracion[0], $a);});
+array_shift($inspiracion);
+$all = count($inspiracion);
+for($n=0; $n < $all; $n++){?>
+  <div class="col-sm-4">
+  <article>
+  <figure>
+    <img src="<?php print($inspiracion[$n]["picture"])?>">
+    <figcaption>Categoría: <a href="archive.php?url=<?php print($inspiracion[$n]["category"])?>"><?php print($inspiracion[$n]["category"])?></a></figcaption>
+  <figure>
+  <h3><a href="post.php?url=<?php print($n);?>"><?php print($inspiracion[$n]["title"])?></a></h3>
+  <p><?php print($inspiracion[$n]["excerpt"])?>. <a href="post.php?url=<?php print($inspiracion[$n])?>">Ver más detalles</a></p>
+  </article>
+  </div><!--/col-sm-4-->
 
+<?php };?>
+
+<div class="col-sm-12">
+<pre>
+<?php print_r($inspiracion);?>
+</pre>
+</div>
 
 <?php include('footer.php');?>

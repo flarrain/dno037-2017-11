@@ -68,9 +68,9 @@ La última clase que dedicaremos a estos lenguajes es la de hoy, miércoles 24 d
 
 Hoy cada estudiante, trabajando individualmente, debe preparar un sitio con:
 
-1) página de portada que muestre antecedentes y referentes para su proyecto, como artículos alimentados por un `*.CSV`
-2) página que despliegue del detalle de los artículos en portada;
-3) página tipo *about*, de descripción del proyecto final; y 
-4) página tipo *contacto*, con un formulario donde se pueda escribir un mensaje que recibirán en sus correos personales.
+- página de portada que muestre antecedentes y referentes para su proyecto, como artículos alimentados por un `*.CSV`;
+- página que despliegue del detalle de los artículos en portada;
+- página tipo *about*, de descripción del proyecto final; y 
+- página tipo *contacto*, con un formulario donde se pueda escribir un mensaje que recibirán en sus correos personales.
 
 Cada página debe incluir los mismos `header.php` y `footer.php`, que les permitan evitar repeticiones que sólo demorarían el proceso.
